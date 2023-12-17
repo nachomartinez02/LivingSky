@@ -1,0 +1,686 @@
+{
+    "waves":[
+        {
+            "n":1,
+            "velocity":50,
+            "spaceships":6
+        },
+        {
+            "n":2,
+            "velocity":75,
+            "spaceships":7
+        },
+        {
+            "n":3,
+            "velocity":90,
+            "spaceships":8
+        },
+        {
+            "n":4,
+            "velocity":100,
+            "spaceships":9
+        },
+        {
+            "n":5,
+            "velocity":120,
+            "spaceships":10
+        }
+      
+    ],
+    "elements":[
+        {
+            "letter": "a",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["aardwolf"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["abandoned"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["abandoning"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["abandonable"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["abandonments"]
+                }
+                
+                
+            ]
+        },
+        {
+            "letter": "b",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["babbling"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["babblings"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["babbitting"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["babyproofed"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["bachelorette"]
+                }
+            ]
+        },
+        {
+            "letter": "c",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["cabarets"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["cabalette"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["caballeros"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["cabbageworm"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["cabinetmaker"]
+                }
+            ]
+        },
+        {
+            "letter": "d",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["dabbling"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["dactylics"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["daftnesses"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["daemonistic"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["dacryorrheas"]
+                }
+            ]
+        },
+        {
+            "letter": "e",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["eardrums"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["earliness"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["earthbound"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["earthbound"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["earthinesses"]
+                }
+            ]
+        },
+        {
+            "letter": "f",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["fabulous"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["fabricant"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["fabricator"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["facebooking"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["fabulousness"]
+                }
+            ]
+        },
+        {
+            "letter": "g",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["gabbling"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["gabardine"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["gadolinite"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["gadoliniums"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["galactometry"]
+                }
+            ]
+        },
+        {
+            "letter": "h",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["habanero"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["habaneros"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["habitually"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["habilitated"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["haberdashery"]
+                }
+            ]
+        },
+        {
+            "letter": "i",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["icebergs"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["ibuprofen"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["ibuprofens"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["icebreakers"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["ichnographic"]
+                }
+            ]
+        },
+        {
+            "letter": "j",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["jacinths"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["jabbering"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["jackanapes"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["jackhammers"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["jacklighting"]
+                }
+            ]
+        },
+        {
+            "letter": "k",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["kabalism"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["kabalisms"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["kabbalisms"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["kaiserships"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["kakistocracy"]
+                }
+            ]
+        },
+        {
+            "letter": "l",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["labeling"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["labelling"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["labialisms"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["labiodental"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["laboratorian"]
+                }
+            ]
+        },
+        {
+            "letter": "m",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["macarena"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["macaroons"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["macaronies"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["macadamised"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["machinations"]
+                }
+            ]
+        },
+        {
+            "letter": "n",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["nacreous"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["nahcolite"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["nabobishly"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["nailclipper"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["nanoparticle"]
+                }
+            ]
+        },
+        {
+            "letter": "o",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["oatmeals"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["obbligato"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["oafishness"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["obfuscating"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["objectifying"]
+                }
+            ]
+        },
+        {
+            "letter": "p",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["pachinko"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["pachinkos"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["pacemakers"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["pacesetters"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["pacification"]
+                }
+            ]
+        },
+        {
+            "letter": "q",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["quackish"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["quadrants"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["quadrangle"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["quadrasonic"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["quadraplegic"]
+                }
+            ]
+        },
+        {
+            "letter": "r",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["rabbitry"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["rabidness"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["rabbinitic"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["racerunners"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["racquetballs"]
+                }
+            ]
+        },
+        {
+            "letter": "s",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["sabotage"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["sabotaged"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["sabbatical"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["sabertooths"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["saccharifier"]
+                }
+            ]
+        },
+        {
+            "letter": "t",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["tabarets"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["tabescent"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["tablecloth"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["tablespoons"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["tachycardias"]
+                }
+            ]
+        },
+        {
+            "letter": "u",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["ugliness"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["ufologist"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["ufologists"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["ultracasual"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["uglification"]
+                }
+            ]
+        },
+        {
+            "letter": "v",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["vacation"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["vacations"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["vaccinates"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["vacationist"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["vacillations"]
+                }
+            ]
+        },
+        {
+            "letter": "w",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["wackiest"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["wackiness"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["wageworker"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["wackinesses"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["wagonmasters"]
+                }
+            ]
+        },
+        {
+            "letter": "x",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["xanthine"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["xenoblast"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["xanthophyl"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["xenobiotics"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["xerographies"]
+                }
+            ]
+        },
+        {
+            "letter": "y",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["yappiest"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["yakitoris"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["yardmaster"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["yachtswoman"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["yellownesses"]
+                }
+            ]
+        },
+        {
+            "letter": "z",
+            "measures":[
+                {
+                    "length" : 8,
+                    "words" : ["zabutons"]
+                },
+                {
+                    "length" : 9,
+                    "words" : ["zamindars"]
+                },
+                {
+                    "length" : 10,
+                    "words" : ["zealotries"]
+                },
+                {
+                    "length" : 11,
+                    "words" : ["zeptosecond"]
+                },
+                {
+                    "length" : 12,
+                    "words" : ["zincographic"]
+                }
+            ]
+        }
+        
+    ]
+
+}

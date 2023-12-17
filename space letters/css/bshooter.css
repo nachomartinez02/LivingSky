@@ -1,0 +1,12 @@
+canvas {
+    border: #3e4146 3px solid;
+    margin: auto;
+    margin-top: 2em;
+    box-shadow: 100px;
+    
+    bottom: 0;
+}
+body {
+    
+    background-image: url(../assets/imgs/espacio.png);
+}

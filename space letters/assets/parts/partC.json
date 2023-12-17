@@ -1,0 +1,37 @@
+{
+    "waves":[
+        {
+            "n":1,
+            "velocity":25,
+            "spaceships":4,
+            "probability":4
+        },
+        {
+            "n":2,
+            "velocity":40,
+            "spaceships":5,
+            "probability":4
+        },
+        {
+            "n":3,
+            "velocity":60,
+            "spaceships":6,
+            "probability":3
+        },
+        {
+            "n":4,
+            "velocity":70,
+            "spaceships":7,
+            "probability":2
+        },
+        {
+            "n":5,
+            "velocity":80,
+            "spaceships":7,
+            "probability":1
+        }
+      
+    ]
+    
+
+}
